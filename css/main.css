@@ -1,6 +1,6 @@
 html{
 	background-color: #bdb9a0;
-	font-family: 'Open Sans', sans-serif;
+	font-family: sans-serif;
 	font-weight: normal;
 	font-size: 1rem;
 }
@@ -55,15 +55,6 @@ cite{
 
 .cite{
 	text-align: right
-}
-
-.point{
-	font-weight: italic;
-}
-
-.uu, .pp{
-	color: black;
-	font-weight: italic;
 }
 
 ol{
